@@ -26,12 +26,17 @@ the array will slowly be filled with actual objects.
 
 ## Part 3: Complete DistinctiveWordFinder
 
-The class DistinctiveWordFinder identifies distinctive vocabulary in a particular document.
+The class DistinctiveWordFinder identifies distinctive vocabulary in a particular document. Note that this class has
+a main method defined- look at what it is doing. Then examine the code some more and look at what you need to update:
 
 * Begin by looking carefully at the interaction of countWords and countWordsInOneFile.
+
 Given the current main() method, what will primaryCounts and secondaryCounts contain at the end?
+
 * In findDistinctive() you'll see two TODOs.
 * Complete the findDistinctive method.
+
+Now try running the main from DistinctiveWordFinder to make sure that it can open the files and find distinctive words. If you get errors, try to trace them by looking carefully at the error output and trace from the last error back to where you changed the code in findDistinctive().
 
 ## Part 4: Wordle Word Clouds
 
