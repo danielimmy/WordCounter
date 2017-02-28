@@ -61,6 +61,7 @@ while it intersects any of the previously placed words
 
 * Begin by looking carefully at the WordleGLabel class (I've completed it for you.) What class does it extend? What is the purpose of this class?
 * Take a look at the Wordle class. Fill in the the doLayout method using the algorithm described above.
+* Don't forget to add the Glabels to your Wordle GraphicsGroup
 * Now run the RunWordle class to create visualizations of the candidate speeches.
 
 Note: word clouds are not actually very good visualizations! The size of the words doesn't take into account the length, so it is easy to make a long word seem more important.
