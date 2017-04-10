@@ -1,4 +1,4 @@
-Comp 124: Word Counting Lab
+Word Counter
 ============
 
 In this lab you'll create a java object called AllWordsCounter that records
